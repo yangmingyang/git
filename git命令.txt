@@ -1,0 +1,6 @@
+
+
+2019-05-05
+将版本库中的代码提交到远程分支上去
+$ git remote add origin git@xx.xx.xx.xx:repos/xxx/xxx/xxx.git
+$ git push -u origin 分支名

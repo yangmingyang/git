@@ -1,0 +1,2 @@
+1.查询项目依赖的命令：
+去到该项目下执行如下命令：mvn denpendency:tree >d.txt

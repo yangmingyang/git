@@ -7,3 +7,6 @@ $ git push -u origin 分支名
 
 2019-05-05
 使用Intellij IDE
+
+今天学习了一个使用gitk --all的命令
+该命令可以使用图形的界面去查看分支的情况。
